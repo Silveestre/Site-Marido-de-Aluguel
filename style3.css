@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: gray;
+    text-align: justify;
+    font-size: 20px;
+    color: white;
+}
+
+.container {
+    width: 400px;
+}
+
+.square {
+    width: 100%;
+    padding: 20PX;
+    border: 7PX solid #010000;
+}
+
+.message {
+    text-align: center;
+    color: #6f6f6f;
+}
